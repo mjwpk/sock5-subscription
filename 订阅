@@ -1,0 +1,5 @@
+美国-洛杉矶01 = socks5, 1.2.3.4, 1080, username=user1, password=pass1
+美国-纽约02 = socks5, 1.2.3.5, 1080, username=user1, password=pass1
+日本-东京01 = socks5, 5.6.7.8, 1080, username=user2, password=pass2
+新加坡01 = socks5, 9.10.11.12, 1080, username=abc, password=def
+香港01 = socks5, 8.8.8.8, 1080, username=hkuser, password=hkpass

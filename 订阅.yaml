@@ -5,6 +5,7 @@ proxies:
     port: 12345
     username: user1
     password: pass1
+    udp: true
 
   - name: "节点2"
     type: socks5
@@ -12,3 +13,4 @@ proxies:
     port: 23456
     username: user2
     password: pass2
+    udp: true
